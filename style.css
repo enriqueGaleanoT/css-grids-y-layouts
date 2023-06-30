@@ -46,6 +46,18 @@
     text-align: center;
 }
 
-.container-pos{
-    
+.box-relative{
+    position: relative;
+    top: 30px;
+    left: 30px;
 }
+/* .box-absolute{
+
+}
+.box-fixed{
+
+}
+.box-sticky{
+    
+} */
+
