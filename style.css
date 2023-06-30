@@ -14,7 +14,7 @@
     display: block;
 }
 
-.container{
+.container{/*lapicera horizontal o vertical*/
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -27,7 +27,7 @@
     text-align: center; 
 }
 
-.container-grid{
+.container-grid{/*armario un solo lugar para guardar cosas*/
     margin: 5px;
     display: grid;
     grid-template-columns: 2fr 6fr;
