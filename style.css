@@ -30,5 +30,7 @@
 .container-grid{
     margin: 5px;
     display: grid;
-    grid-template-columns: 1fr 2fr 4fr;
+    grid-template-columns: 2fr 6fr;
+    grid-template-rows: 100px 50px 10px;
+    gap: 20px;
 }
