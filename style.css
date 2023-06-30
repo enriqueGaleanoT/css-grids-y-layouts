@@ -35,7 +35,7 @@
     gap: 5px ;/*para que no quede todo junto*/
 }
 
-#box6{
+#box6{ /*es mejor usar id para hablarle a una unica caja y
     grid-column: 2; /*comienza en la column 2*/
     grid-row: 1; /*pero quiero que estes en la fila 1*/
 }
