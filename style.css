@@ -39,3 +39,13 @@
     grid-column: 2; /*comienza en la column 2*/
     grid-row: 1; /*pero quiero que estes en la fila 1*/
 }
+
+.box-pos{
+    width: 180px;
+    height: 100px;
+    text-align: center;
+}
+
+.container-pos{
+    
+}
