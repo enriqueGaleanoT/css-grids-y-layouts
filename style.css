@@ -31,6 +31,11 @@
     margin: 5px;
     display: grid;
     grid-template-columns: 2fr 6fr;
-    grid-template-rows: 100px 50px 10px;/*altura de cada fila*/
-    gap: 20px;/*para que no quede todo junto*/
+    grid-template-rows: 100px 60px 200px;/*altura de cada fila*/
+    gap: 5px ;/*para que no quede todo junto*/
+}
+
+#box6{
+    grid-column: 2;
+    grid-row: 1;
 }
