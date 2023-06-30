@@ -36,6 +36,6 @@
 }
 
 #box6{
-    grid-column: 2;
-    grid-row: 1;
+    grid-column: 2; /*comienza en la column 2*/
+    grid-row: 1; /*pero quiero que estes en la fila 1*/
 }
